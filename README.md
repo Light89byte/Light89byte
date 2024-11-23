@@ -1,4 +1,4 @@
-<h1>Hello, I'm Austin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/digtialforensics5/details/certifications//">Cybersecurity Professional</a>, <a >Analytical Thinker</a></h1>
+<h1>Hello, I'm Austin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/digtialforensics5/details/certifications//">Cybersecurity Professional</a>, <a >Developer</a></h1>
 
 <h2>👨‍💻 Cybersecurity/ General IT Projects:</h2>
 
