@@ -16,7 +16,7 @@
   - [CompTIA Security +](https://www.credly.com/badges/206b730a-ca47-430c-a312-30e5e6260747/public_url)
   - [Azure 900 - Fundamentals](https://learn.microsoft.com/en-us/users/austinallred-7369/transcript/71wnehp22geznjl)
   - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/962335418)
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Interesting/Informative YouTube Videos</h2>
 
 
 
