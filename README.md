@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity/ General IT Projects:</h2>
   
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+-
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Light89byte/SIEM)
+  - [Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Light89byte/SIEM)
   - [Active Diretory Home Lab](https://github.com/Light89byte/ActiveDirectoryLab/tree/main)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Keylogger that sends emails](https://github.com/Light89byte/KeyloggerEmail)
 
@@ -17,7 +15,7 @@
   - [Azure 900 - Fundamentals](https://learn.microsoft.com/en-us/users/austinallred-7369/transcript/71wnehp22geznjl)
   - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/962335418)
 <h2>📺 Interesting/Informative YouTube Videos</h2>
-
+[Kevin Mitnick: Hacking into cloud](https://youtu.be/e16STDOf-xs?si=jkxubdy40ey4W3Ys)
 
 
 <h2> 🤳 Connect with me:</h2>
