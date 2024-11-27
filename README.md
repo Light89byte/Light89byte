@@ -1,4 +1,4 @@
-<h1>Hello, I'm Austin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/digtialforensics5/details/certifications//">Cybersecurity Professional</a>, <a >Developer</a></h1>
+<h1>Hi, I'm Austin! <br/> <a href="https://www.linkedin.com/in/digtialforensics5/details/certifications//">IT Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity/ General IT Projects:</h2>
   
@@ -15,7 +15,8 @@
   - [Azure 900 - Fundamentals](https://learn.microsoft.com/en-us/users/austinallred-7369/transcript/71wnehp22geznjl)
   - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/962335418)
 <h2>📺 Interesting/Informative YouTube Videos</h2>
-[Kevin Mitnick: Hacking into cloud](https://youtu.be/e16STDOf-xs?si=jkxubdy40ey4W3Ys)
+
+[Kevin Mitnick: RansomCloud](https://youtu.be/e16STDOf-xs?si=jkxubdy40ey4W3Ys)
 
 
 <h2> 🤳 Connect with me:</h2>
