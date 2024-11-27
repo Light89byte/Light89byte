@@ -1,14 +1,12 @@
 <h1>Hello, I'm Austin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/digtialforensics5/details/certifications//">Cybersecurity Professional</a>, <a >Developer</a></h1>
 
 <h2>👨‍💻 Cybersecurity/ General IT Projects:</h2>
-
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Diretory Home Lab](https://github.com/Light89byte/ActiveDirectoryLab/tree/main)
+  
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Active Diretory Home Lab](https://github.com/Light89byte/ActiveDirectoryLab/tree/main)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Keylogger that sends emails]()
