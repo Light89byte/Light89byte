@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br/> <a href="https://www.linkedin.com/in/digtialforensics5/details/certifications//">IT Professional</a> </h1>
+<h1>Hi, I'm Austin! <br/> </a> <a href="https://www.linkedin.com/in/digtialforensics5/details/certifications//"> IT Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity/ General IT Projects:</h2>
   
