@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity/ General IT Projects:</h2>
   
-- <b>Network Analyzer>
-   -[Wireshark Packet Captures: Blue Team]()
+- <b>Network Analyzer</b>
+  - [Wireshark Packet Captures: Blue Team]()
 - <b>PowerShell</b>
   - [Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Light89byte/SIEM)
   - [Active Diretory Home Lab](https://github.com/Light89byte/ActiveDirectoryLab/tree/main)
