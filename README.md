@@ -17,8 +17,8 @@
   - [Blue Team Junior Analyst](https://elearning.securityblue.team/home/certificate/962335418)
 <h2>📺 Interesting/Informative YouTube Videos</h2>
 
-[Kevin Mitnick: RansomCloud](https://youtu.be/e16STDOf-xs?si=jkxubdy40ey4W3Ys)
-[Python Wifi- DOS attack](https://youtu.be/iGXB5NanUK4?si=wK71dk6Qp_SPkEaX)
+- [Kevin Mitnick: RansomCloud](https://youtu.be/e16STDOf-xs?si=jkxubdy40ey4W3Ys)
+- [Python Wifi- DOS attack](https://youtu.be/iGXB5NanUK4?si=wK71dk6Qp_SPkEaX)
 
 
 <h2> 🤳 Connect with me:</h2>
