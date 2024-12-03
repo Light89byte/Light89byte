@@ -8,7 +8,7 @@
   - [REST API: Medical Records](https://github.com/Light89byte/WEBAPI/blob/main/README.md)
 - <b>PowerShell</b>
   - [Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Light89byte/SIEM)
-  - [Active Diretory Home Lab](https://github.com/Light89byte/ActiveDirectoryLab/tree/main)
+  - [Active Directory Home Lab](https://github.com/Light89byte/ActiveDirectoryLab/tree/main)
 - <b>C# (.NET Desktop Applications)</b>
   - [Keylogger that sends emails](https://github.com/Light89byte/KeyloggerEmail)
 
