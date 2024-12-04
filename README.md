@@ -6,8 +6,8 @@
   - [Wireshark Packet Captures: Blue Team](https://github.com/Light89byte/NetworkAnalyzer/blob/main/README.md)
 - <b>Web APIs</b>
   - [REST API: Medical Records](https://github.com/Light89byte/WEBAPI/blob/main/README.md)
-- <b>Browser Privacy</b>
-  - [Firefox Privacy]()
+- <b>Securing Browser Privacy</b>
+  - [Firefox Privacy](https://github.com/Light89byte/Privacy/blob/main/README.md)
 - <b>PowerShell</b>
   - [Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Light89byte/SIEM)
   - [Active Directory Home Lab](https://github.com/Light89byte/ActiveDirectoryLab/tree/main)
