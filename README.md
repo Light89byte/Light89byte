@@ -24,6 +24,7 @@
 - [Kevin Mitnick: RansomCloud](https://youtu.be/e16STDOf-xs?si=jkxubdy40ey4W3Ys)
 - [Python Wifi- DOS attack](https://youtu.be/iGXB5NanUK4?si=wK71dk6Qp_SPkEaX)
 - [This is what an actual VPN looks like!](https://www.youtube.com/watch?v=hPrMtIXUh1s)
+- [7 Cybersecurity Tips Nobody Tells You!](https://youtu.be/Uy60wy20ADE?si=zyP7VB2-tUXVExRd)
 
 
 <h2> 🤳 Connect with me:</h2>
